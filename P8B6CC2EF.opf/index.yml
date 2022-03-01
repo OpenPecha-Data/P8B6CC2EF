@@ -1,0 +1,897 @@
+id: ef9615aa4bd14d839544ebf4704bd559
+annotation_type: index
+revision: '00001'
+annotations:
+  27393225b9404642bf15d59fd038d04f:
+    work_id: W195947EC
+    span:
+      vol: CHAPTER FIVE. ON THE DEDUCTION OF THE PERMANENCY OF TATHAGATAHOOD
+      start: 0
+      end: 2713
+  7e28c512875648c7a523369f79340f78:
+    work_id: W520B3BB3
+    span:
+      vol: CHAPTER FOUR. ON INTUITIVE UNDERSTANDING
+      start: 0
+      end: 5354
+  cba4670940134ea2b7f8af88a5c2ba03:
+    work_id: WDA9D1598
+    span:
+      vol: CHAPTER NINE. THE DHĀRANĪS
+      start: 0
+      end: 2466
+  408ab280b2bc47109bb70fc8cb9ccc57:
+    work_id: W08228B1E
+    span:
+      vol: CHAPTER SEVEN. ON TRANSFORMATION
+      start: 0
+      end: 3734
+  f4e799e9b014409c860ea22cd9d6404a:
+    work_id: W5E4EDB34
+    span:
+      vol: CHAPTER SIX. ON MOMENTARINESS
+      start: 0
+      end: 19602
+  cc97ea6feaba4c8cbc6598a058447619:
+    work_id: W86426458
+    span:
+      vol: CIII_§LVII
+      start: 0
+      end: 115710
+  43fca78e23f04d369f50c613a475620a:
+    work_id: W68269A8D
+    span:
+      vol: CII_Uttarapadaśatam
+      start: 0
+      end: 3194
+  0e458f29ac114a2c9e5fa601195ca4f3:
+    work_id: W34CBF9F9
+    span:
+      vol: CII_Verse 132
+      start: 0
+      end: 314
+  e6397f6706e8457d9f94173417de75d2:
+    work_id: WDBCD44AD
+    span:
+      vol: CII_Verse 133
+      start: 0
+      end: 1752
+  1d1227bab0cd41e4a4f0637eae2f42b9:
+    work_id: W141B3DFF
+    span:
+      vol: CII_Verse 149-160
+      start: 0
+      end: 1287
+  62a011e635cd4d549c658dab0c70a3bd:
+    work_id: W85CF484D
+    span:
+      vol: CII_Verse 161-64
+      start: 0
+      end: 477
+  94c95429f6e547f0acbab86bdea01265:
+    work_id: W6816F0D6
+    span:
+      vol: CII_Verse 99-124
+      start: 0
+      end: 2774
+  024d396da2f84b29a821be25e80f6a17:
+    work_id: W4469C7DC
+    span:
+      vol: CII_verse 26-50
+      start: 0
+      end: 2695
+  555fcdaf37664e41aa812ea466b36d41:
+    work_id: W25E9B97F
+    span:
+      vol: CII_verse 51-75
+      start: 0
+      end: 2654
+  5b9d783ec61843f6829d1cd5b19338c2:
+    work_id: W51983357
+    span:
+      vol: CII_verse 76-97
+      start: 0
+      end: 2497
+  8d91ccb040344b4285b95237be11d102:
+    work_id: W45940627
+    span:
+      vol: 'CII_§I: Mahāmati Praises the Buddha with Verses, verse 1-8'
+      start: 0
+      end: 1096
+  42867f2b17b54286bbaa7cc3d05d1fb9:
+    work_id: W1C57E525
+    span:
+      vol: 'CII_§II: Mahāmati''s “One Hundred and Eight Questions”, verse 9-25'
+      start: 0
+      end: 2132
+  01271585a4fd4ef09a6ebe6eec45b740:
+    work_id: WBC24B940
+    span:
+      vol: 'CII_§III: “The One Hundred and Eight Negations”, verse 98'
+      start: 0
+      end: 98
+  54a1dfe335b14721b244d2a55cbf2d7f:
+    work_id: WDE899EE9
+    span:
+      vol: 'CII_§IV: Concerning the Vijñānas'
+      start: 0
+      end: 2315
+  3c3342b3d08d4195a683e3fe5ae05de7:
+    work_id: W0EAADB0A
+    span:
+      vol: CII_§IX: The Evolution and Function of the Vijñānas; The Spiritual Discipline
+        of the Bodhisattva; Verses on the Ālaya-ocean and Vijñāna-waves
+      start: 0
+      end: 2499
+  93b274b05cfd4d96a0c02b583ae1f88f:
+    work_id: WEF09FC4C
+    span:
+      vol: 'CII_§V: Seven Kinds of Self-nature (svabhāva).'
+      start: 0
+      end: 192
+  720c13595645447d8a2def1f39fd625d:
+    work_id: W4E04D7ED
+    span:
+      vol: 'CII_§VI: Seven Kinds of First Principle (paramārtha), and the Philosophers’
+        Wrong Views regarding the Mind Rejected'
+      start: 0
+      end: 890
+  360ea2ba311f4a1db2d849a55293ad0c:
+    work_id: WACC89F0B
+    span:
+      vol: 'CII_§VII: Erroneous Views held by Some Brahmans and Śramanas Concerning
+        Causation, Continuation, etc.; The Buddhist Views Concerning Such Subjects
+        as Alayavijñāna, Nirvana, Mind-only, etc.; Attainments of the Bodhisattva'
+      start: 0
+      end: 2549
+  a00d694bc97a465a9b4a0a2c1fa1baa3:
+    work_id: WACCC6A9A
+    span:
+      vol: CII_§VIII: The Bodhisattva's Discipling himself in Self-realisation
+      start: 0
+      end: 395
+  164eb52f74c14808a1fbc68931198ec2:
+    work_id: WE63999EB
+    span:
+      vol: CII_§X: The Bodhisattva is to Understand the Signification of Mind-only
+      start: 0
+      end: 442
+  4a30eba1cbe94a4bb76ae4bd0b282b52:
+    work_id: W649F5699
+    span:
+      vol: CII_§XI(a): The Three Aspects of Noble Wisdom (āryajñāna).
+      start: 0
+      end: 972
+  fac95e9ad6724193a3249067041df3ab:
+    work_id: WC1D9F94C
+    span:
+      vol: CII_§XI(b): The Attainment of the Tathāgatakāya
+      start: 0
+      end: 892
+  b98d128705dc4b19afac38bf47cd3fea:
+    work_id: W5B45FA2B
+    span:
+      vol: CII_§XII: Logic on the Hare's Horns
+      start: 0
+      end: 2732
+  48aad4a2bdd04ed4912fa04836807734:
+    work_id: W4B2A9B0B
+    span:
+      vol: CII_§XIII: Verses on the Ālayavijñāna and Mind-only, verse 123-127
+      start: 0
+      end: 595
+  cdd64140e2b744edb569349da762973e:
+    work_id: WB18F0FA8
+    span:
+      vol: CII_§XIV: Purification of the Outflows, Instantaneous and Gradual
+      start: 0
+      end: 1731
+  9ee7c7dc022949d4a2d9f0246e31e11a:
+    work_id: WE53F70B7
+    span:
+      vol: 'CII_§XIX: All Things are Unborn'
+      start: 0
+      end: 690
+  c7ead0b68d074eb7a075d09b7d463515:
+    work_id: W160FFE19
+    span:
+      vol: 'CII_§XL: Two Kinds of the Buddha''s Sustaining Power (adhiṣṭhāna).'
+      start: 0
+      end: 35017
+  b4ff80c9cc25416897627d7c7b88279d:
+    work_id: W391AAC87
+    span:
+      vol: CII_§XV: Niṣyanda-Buddha, Dharmatā-Buddha, and Nirmāṇa-Buddha
+      start: 0
+      end: 1412
+  de942f414275496d9380893d280af031:
+    work_id: W9993D8CA
+    span:
+      vol: CII_§XVI: The Śrāvaka's Realisation and Attachment to the Notion of Self-nature
+      start: 0
+      end: 1440
+  0f5859c563a445c3b0422b168e9224fe:
+    work_id: W6C656C71
+    span:
+      vol: CII_§XVII: The Eternal-Unthinkable
+      start: 0
+      end: 2043
+  3d0614f6a5504bcba47dea923b380a17:
+    work_id: W3C2BCCA5
+    span:
+      vol: CII_§XVIII: Nirvāṇa and Ālayavijñāna
+      start: 0
+      end: 517
+  ad1f888d165e4dc7a81d652f720a53de:
+    work_id: WB06B6630
+    span:
+      vol: 'CII_§XX: The Five Classes of Spiritual Insight'
+      start: 0
+      end: 2283
+  192ee85322684da8ae505d29144f7a69:
+    work_id: W907FDA3D
+    span:
+      vol: 'CII_§XXI: Verses on the Triple Vehicle, verse 128-131'
+      start: 0
+      end: 466
+  91c0e41019694b0eb9bab7ba1bedd1e9:
+    work_id: W4481F57E
+    span:
+      vol: 'CII_§XXII: Two Classes of the Icchantika'
+      start: 0
+      end: 1058
+  2b88af03c5b8493ea677a47de5f94933:
+    work_id: W5ACED3CD
+    span:
+      vol: 'CII_§XXIII: The Three Forms of Svabhāva'
+      start: 0
+      end: 999
+  5388ec12d4f04ca1aad45f2b13e0be12:
+    work_id: WD7AA47D4
+    span:
+      vol: 'CII_§XXIV: The Twofold Egolessness (nairātmyadvayalakṣaṇa)'
+      start: 0
+      end: 1985
+  7421256e9b0346b6bb0caf858c1510fa:
+    work_id: W47484616
+    span:
+      vol: 'CII_§XXIX: A Verse on the Philosophers'' Discriminations, verse 137'
+      start: 0
+      end: 175
+  99c014e56a824d4d901f944da9824360:
+    work_id: W4FFB094B
+    span:
+      vol: 'CII_§XXV: Assertion and Refutation (samāropāpavāda)'
+      start: 0
+      end: 448
+  5d56b3139a6d4ded9775281bd8f4dd8d:
+    work_id: W55077738
+    span:
+      vol: 'CII_§XXVI: The Bodhisattva Assumes Various Personalities'
+      start: 0
+      end: 1049
+  62f605231d7e4e09a466f7f7e3d43a95:
+    work_id: W90204692
+    span:
+      vol: 'CII_§XXVII: On Emptiness (śūnyatā), No-birth, and Non-duality'
+      start: 0
+      end: 4271
+  ab0d60b79167454490d6c58386f0ae6e:
+    work_id: WB6554C6B
+    span:
+      vol: 'CII_§XXVIII: The Tathāgata-Garbha and the Ego-soul'
+      start: 0
+      end: 1975
+  b67c7ac8de3b4dc78a6eca926d606fb2:
+    work_id: W0F63CEEF
+    span:
+      vol: 'CII_§XXX: The Four Things Needed for the Constitution of Bodhisattvahood'
+      start: 0
+      end: 2637
+  ab2f00f906ab48c8b50ac3a5e88af832:
+    work_id: W239250DD
+    span:
+      vol: 'CII_§XXXI: On Causation (Six Kinds), and the Rise of Existence'
+      start: 0
+      end: 3146
+  bfe5a153917b4a9c877f14793ff4952b:
+    work_id: W76A6A468
+    span:
+      vol: 'CII_§XXXII: Four Forms of Word-discrimination'
+      start: 0
+      end: 1163
+  880e7324b50c4f72b685baf0c005a7d0:
+    work_id: W82277718
+    span:
+      vol: 'CII_§XXXIII: On Word and Discrimination and the Highest Reality'
+      start: 0
+      end: 1535
+  5b5d35dd9363475d89954ae942c216b1:
+    work_id: WEC9E00AE
+    span:
+      vol: 'CII_§XXXIV: Verses on Reality and its Representations, verse 145-148'
+      start: 0
+      end: 494
+  ae2a03f37b99430e84cd761e4ebd2253:
+    work_id: W3DEA3C3D
+    span:
+      vol: 'CII_§XXXIX: Two Characteristics of Self-nature'
+      start: 0
+      end: 341
+  55889df2a83e486c9f73265e990aa7eb:
+    work_id: W51051709
+    span:
+      vol: 'CII_§XXXV: Mind-only, Multitudinousness, and Analogies, with an Interpolation
+        on the Dualistic Notion of Existence'
+      start: 0
+      end: 6338
+  7db0decd31d047efb04f371ab9de40f9:
+    work_id: W5483FDEB
+    span:
+      vol: 'CII_§XXXVI: The Teaching (dharmadeśanā) of the Tathagatas'
+      start: 0
+      end: 502
+  787e67eb5da547c58214b36578e2206b:
+    work_id: WBD3CAC43
+    span:
+      vol: 'CII_§XXXVII: Four Kinds of Dhyāna'
+      start: 0
+      end: 1004
+  9eb8a3cea7cf41f0816d7a5230d935e2:
+    work_id: W3BC3D7EC
+    span:
+      vol: 'CII_§XXXVIII: On Nirvāṇa])Four Kinds of Dhyāna'
+      start: 0
+      end: 1238
+  2660d7816d1940ae94b2dd9f57990e1a:
+    work_id: W6C6E6B88
+    span:
+      vol: CIV_Verse 1-10
+      start: 0
+      end: 1045
+  ec30314c2ad1497fa298ac612da76d36:
+    work_id: WB893A34B
+    span:
+      vol: CIV_Verse 11-20
+      start: 0
+      end: 1039
+  606f884c75234423b7a8c519da054997:
+    work_id: WE6FA79A8
+    span:
+      vol: CIV_Verse 21-24
+      start: 0
+      end: 3055
+  efac47ef86ca4de8b303e4ccd92739e7:
+    work_id: W403573C3
+    span:
+      vol: CI_Initial questions
+      start: 0
+      end: 12023
+  a5327e22c2f94fbaa067c921239bc5ae:
+    work_id: WC4CE69A2
+    span:
+      vol: CI_Verse 1-3
+      start: 0
+      end: 501
+  0acd608b39ad41a99f8c5ba1f85b723d:
+    work_id: W583E8DE5
+    span:
+      vol: CI_Verse 4-44
+      start: 0
+      end: 4604
+  288af37a7df54f0bb3d4534a39d94583:
+    work_id: W3F0B8A50
+    span:
+      vol: CV_Verse 1-10
+      start: 0
+      end: 1025
+  426804845240474991b4b9f56050b579:
+    work_id: W6447B495
+    span:
+      vol: CV_Verse 101-110
+      start: 0
+      end: 1052
+  0678e72f348e4d0683a3c9df9775a508:
+    work_id: W9C945659
+    span:
+      vol: CV_Verse 11-20
+      start: 0
+      end: 1050
+  33b23b013b324a1ca30f841597ed964c:
+    work_id: W133CD387
+    span:
+      vol: CV_Verse 111-120
+      start: 0
+      end: 1112
+  b1feef69a4b64ba1bc34176ff81dfb2e:
+    work_id: W6E0F9467
+    span:
+      vol: CV_Verse 121-130
+      start: 0
+      end: 1122
+  f443cefc160a461cb494c085b58f1523:
+    work_id: W3A3DB945
+    span:
+      vol: CV_Verse 131-140
+      start: 0
+      end: 1109
+  0988034562374892a32ac7dfe1a183d8:
+    work_id: W5F44F848
+    span:
+      vol: CV_Verse 141-150
+      start: 0
+      end: 1083
+  b2a93d6fa7254153b1729a56e3d29640:
+    work_id: W477CA6BE
+    span:
+      vol: CV_Verse 151-160
+      start: 0
+      end: 1165
+  844c0cd5ea3e43789288ff353b8b84a1:
+    work_id: WADA2E022
+    span:
+      vol: CV_Verse 161-170
+      start: 0
+      end: 1087
+  712fe0568cfe4130a2d50ab4c6eecbd3:
+    work_id: W1F555214
+    span:
+      vol: CV_Verse 171-180
+      start: 0
+      end: 1055
+  0657f3da1a054116a846798fe060ba89:
+    work_id: W39802F84
+    span:
+      vol: CV_Verse 181-190
+      start: 0
+      end: 1050
+  4936129ff24140c8833aa98edbbc7e1b:
+    work_id: W62882492
+    span:
+      vol: CV_Verse 191-200
+      start: 0
+      end: 1060
+  f86175ef5cc64d53b9eaa36d41924681:
+    work_id: W6316AE77
+    span:
+      vol: CV_Verse 201-210
+      start: 0
+      end: 1099
+  38d83aba310e4c0e94e2e98a6ebfa5be:
+    work_id: W5BCC546E
+    span:
+      vol: CV_Verse 21-30
+      start: 0
+      end: 1185
+  51e70c74b02b43ff9c5a2a37e9472c33:
+    work_id: W5ABC06A4
+    span:
+      vol: CV_Verse 211-220
+      start: 0
+      end: 1083
+  56343702946f4fbe9f9d99e00210f62b:
+    work_id: W7A84AC7F
+    span:
+      vol: CV_Verse 221-230
+      start: 0
+      end: 1075
+  656388d07e9b4e34b6afc70effd70547:
+    work_id: W6BEB8FD2
+    span:
+      vol: CV_Verse 231-240
+      start: 0
+      end: 1056
+  2b4288f4de484c4eaf8d453b28e2fae7:
+    work_id: W07251636
+    span:
+      vol: CV_Verse 241-250
+      start: 0
+      end: 2215
+  e59c005a87be43d5986f64c453400215:
+    work_id: W3B4F04B5
+    span:
+      vol: CV_Verse 261-270
+      start: 0
+      end: 1083
+  0c2e192de13948a0b19afbe9cdc99f01:
+    work_id: W4CA48949
+    span:
+      vol: CV_Verse 271-280
+      start: 0
+      end: 1084
+  bf9a56bcb44c4d638d523ce256578c42:
+    work_id: W873758C8
+    span:
+      vol: CV_Verse 281-290
+      start: 0
+      end: 1084
+  f3bdd72ec0494229af35a7ca6446db50:
+    work_id: W3434546C
+    span:
+      vol: CV_Verse 291-300
+      start: 0
+      end: 1118
+  c1b6d7a78b074e6ba29201d5a7110b2d:
+    work_id: W553E54D4
+    span:
+      vol: CV_Verse 301-310
+      start: 0
+      end: 1092
+  822b7a84c4274f50a6674a1fbb63f2e9:
+    work_id: W95470111
+    span:
+      vol: CV_Verse 31-40
+      start: 0
+      end: 1150
+  ce34a5ace8184c11b9a7083fb956e283:
+    work_id: WAFD0304D
+    span:
+      vol: CV_Verse 311-320
+      start: 0
+      end: 1089
+  a0377f442d06438a8fe99bfe0924f2a1:
+    work_id: WC49472C7
+    span:
+      vol: CV_Verse 321-330
+      start: 0
+      end: 1088
+  a8acab15ad854443b1e2ca8cdad735f6:
+    work_id: W006F08F6
+    span:
+      vol: CV_Verse 331-340
+      start: 0
+      end: 1078
+  220dab59bafe433497e5309b3b82efd1:
+    work_id: W216B016F
+    span:
+      vol: CV_Verse 341-350
+      start: 0
+      end: 1073
+  9287c4aaf4764a3db80fa404846de385:
+    work_id: WF7A44602
+    span:
+      vol: CV_Verse 351-360
+      start: 0
+      end: 1098
+  6d401ed3b30f47399a2edd49dfadb279:
+    work_id: WBBEEA71B
+    span:
+      vol: CV_Verse 361-370
+      start: 0
+      end: 1067
+  9c55962c4ce948f1b687487ea7e57184:
+    work_id: W0B08943D
+    span:
+      vol: CV_Verse 371-380
+      start: 0
+      end: 1105
+  6fb27a2c75bc4d849d11ccf269b5cc65:
+    work_id: WB71783C2
+    span:
+      vol: CV_Verse 381-390
+      start: 0
+      end: 1091
+  7078e6bc1fa54abfadf3e13a6ca3f2cd:
+    work_id: WBB325710
+    span:
+      vol: CV_Verse 391-400
+      start: 0
+      end: 1112
+  922d3a0d1db8469b802bf745051dcc82:
+    work_id: WADDA9DEE
+    span:
+      vol: CV_Verse 401-410
+      start: 0
+      end: 1112
+  f96e31c715724377b80a9c84839e57ed:
+    work_id: W0CFC446B
+    span:
+      vol: CV_Verse 41-50
+      start: 0
+      end: 1129
+  769a10d567d84f8aa3095349465526e3:
+    work_id: WD3818CB7
+    span:
+      vol: CV_Verse 411-420
+      start: 0
+      end: 1078
+  1a9496e57b584027863ba2f85cf283be:
+    work_id: W9F0F4D0B
+    span:
+      vol: CV_Verse 421-430
+      start: 0
+      end: 1081
+  66f1d8ad677443149e7ecb9a15278907:
+    work_id: W44CC53C9
+    span:
+      vol: CV_Verse 431-440
+      start: 0
+      end: 1084
+  daed4777282543f4bdb69bce71462308:
+    work_id: WECCB5AC4
+    span:
+      vol: CV_Verse 441-450
+      start: 0
+      end: 1084
+  8558360db4ed49cbb34141a062959d27:
+    work_id: W9625CB31
+    span:
+      vol: CV_Verse 451-460
+      start: 0
+      end: 1050
+  61cc59584a6549e7895aef8a3c5ef577:
+    work_id: WFDA545A5
+    span:
+      vol: CV_Verse 461-470
+      start: 0
+      end: 1098
+  1e92793c7ebf4d9881721af50f87c4fc:
+    work_id: W987B3BF6
+    span:
+      vol: CV_Verse 471-480
+      start: 0
+      end: 1098
+  f1c2cd82560841fcbae68e0b9ece6e17:
+    work_id: WB695E04F
+    span:
+      vol: CV_Verse 481-490
+      start: 0
+      end: 1082
+  df46c0eb0bef4043a842b428bbdeac83:
+    work_id: W56671F57
+    span:
+      vol: CV_Verse 491-500
+      start: 0
+      end: 1089
+  61507392a05941189261ed5af600e966:
+    work_id: WFDD7AB4F
+    span:
+      vol: CV_Verse 501-510
+      start: 0
+      end: 1067
+  e9e3055d316344539b8cd9662458e992:
+    work_id: WD1185A62
+    span:
+      vol: CV_Verse 51-60
+      start: 0
+      end: 1056
+  8beceed1ca444fe98ee91d8e20c0c9ba:
+    work_id: WCDB90478
+    span:
+      vol: CV_Verse 511-520
+      start: 0
+      end: 1068
+  4ee6ea4ea9ca43d0a83864d388f767cc:
+    work_id: WB048E0B7
+    span:
+      vol: CV_Verse 521-530
+      start: 0
+      end: 1077
+  06eb8d950b3e47b2b8fbe6d92649e0f4:
+    work_id: WBEE17304
+    span:
+      vol: CV_Verse 531-540
+      start: 0
+      end: 1058
+  78a22c105e3a4bd7960df434590534f6:
+    work_id: W325838C4
+    span:
+      vol: CV_Verse 541-550
+      start: 0
+      end: 1065
+  7c50e6786ffb4ca6a43662876f9ca7e1:
+    work_id: WB343FB15
+    span:
+      vol: CV_Verse 551-560
+      start: 0
+      end: 1073
+  32db3a698abe457cac623bd73f82f5dc:
+    work_id: W5AE21EB7
+    span:
+      vol: CV_Verse 561-570
+      start: 0
+      end: 1114
+  e28ee7bd7c56439e9fba0ef6d9a8308a:
+    work_id: WDBBDDBB5
+    span:
+      vol: CV_Verse 571-580
+      start: 0
+      end: 1085
+  83bc0ec733dc44148810f43bbf61aad1:
+    work_id: WF226FF42
+    span:
+      vol: CV_Verse 581-590
+      start: 0
+      end: 1092
+  38227e4e193e49059d67df10c5a98f3b:
+    work_id: WE3B20732
+    span:
+      vol: CV_Verse 591-600
+      start: 0
+      end: 1044
+  085bd37371134154843702e260e81063:
+    work_id: W5EF02B24
+    span:
+      vol: CV_Verse 601-610
+      start: 0
+      end: 1084
+  b4d121c43a664aed937a0ab38f522686:
+    work_id: W9789FAF9
+    span:
+      vol: CV_Verse 61-70
+      start: 0
+      end: 1089
+  1eb7b3d18a4b4741adab8a1b0707310c:
+    work_id: W18481046
+    span:
+      vol: CV_Verse 611-620
+      start: 0
+      end: 1075
+  7c8c59592d2c4b6784a2c4bd80a216b0:
+    work_id: WB3AE3BEF
+    span:
+      vol: CV_Verse 621-630
+      start: 0
+      end: 1078
+  1117451ee7034575bcde9365802daba9:
+    work_id: W969BAA30
+    span:
+      vol: CV_Verse 631-640
+      start: 0
+      end: 1067
+  9bc067d2141c433183ce05cef721d7f4:
+    work_id: W264F0066
+    span:
+      vol: CV_Verse 641-650
+      start: 0
+      end: 1069
+  52c6be9afc84461b837a8c7bd4281232:
+    work_id: WB7B04C64
+    span:
+      vol: CV_Verse 651-660
+      start: 0
+      end: 1099
+  3317ecbe043d4313b4987d2b53c51f30:
+    work_id: W85A9FE50
+    span:
+      vol: CV_Verse 661-670
+      start: 0
+      end: 1047
+  5b7523b8caf14900aa4a3cf5ee57bbcc:
+    work_id: W164A0455
+    span:
+      vol: CV_Verse 671-680
+      start: 0
+      end: 1157
+  8ac107c454f046eaa290ecdd96958c41:
+    work_id: W0958DDAC
+    span:
+      vol: CV_Verse 681-690
+      start: 0
+      end: 1092
+  2a9638fa77e5486e98d1abdac8f5a2f7:
+    work_id: W44E22FF7
+    span:
+      vol: CV_Verse 691-700
+      start: 0
+      end: 1083
+  20815e82b75e4b9f8fcda5f23ccb6c61:
+    work_id: W14998457
+    span:
+      vol: CV_Verse 701-710
+      start: 0
+      end: 1117
+  7a764c28adca4f219b4fe0bd8e460d1e:
+    work_id: W15B2FCC8
+    span:
+      vol: CV_Verse 71-80
+      start: 0
+      end: 1112
+  8bcb6220a9474f299a9fecc48541b694:
+    work_id: WBB869104
+    span:
+      vol: CV_Verse 711-720
+      start: 0
+      end: 1079
+  af46eaee41b74e55b26c8ae2fea869d9:
+    work_id: W426B9F9E
+    span:
+      vol: CV_Verse 721-730
+      start: 0
+      end: 1067
+  a849659312634b45bad6a77aa2258284:
+    work_id: WBF228B62
+    span:
+      vol: CV_Verse 731-740
+      start: 0
+      end: 1074
+  7837420973cb46c580abfb670014fde5:
+    work_id: W834303B6
+    span:
+      vol: CV_Verse 741-750
+      start: 0
+      end: 1050
+  81e6fb538258439c86a234f126f4688f:
+    work_id: W77FFF47A
+    span:
+      vol: CV_Verse 751-760
+      start: 0
+      end: 1101
+  dbf25bcc17514a599709402718e3f512:
+    work_id: W9EAEAE9E
+    span:
+      vol: CV_Verse 761-770
+      start: 0
+      end: 1068
+  2384793a7079438789b97f877587dcd6:
+    work_id: W6CAD0D94
+    span:
+      vol: CV_Verse 771-780
+      start: 0
+      end: 1080
+  9617581d5ad84d65abff2d003a854084:
+    work_id: WFA4B9A8E
+    span:
+      vol: CV_Verse 781-790
+      start: 0
+      end: 1239
+  1830e91e148b4040b0cd1d159e4219b7:
+    work_id: WDCF3DF44
+    span:
+      vol: CV_Verse 791-800
+      start: 0
+      end: 1100
+  60d70328853041018d8fef41abae0d53:
+    work_id: W769E0ECB
+    span:
+      vol: CV_Verse 801-810
+      start: 0
+      end: 3257
+  a76355aa9e2a449ea8a3d53e625fc7a4:
+    work_id: W49F4A227
+    span:
+      vol: CV_Verse 81-90
+      start: 0
+      end: 1110
+  5445032b1b0d4c939b189f66f2609fc5:
+    work_id: WDDFDBD57
+    span:
+      vol: CV_Verse 831-840
+      start: 0
+      end: 1091
+  fee8c3e2d50c4ae896cc2322e0a9ea1a:
+    work_id: WB4CDFDF5
+    span:
+      vol: CV_Verse 841-850
+      start: 0
+      end: 1035
+  85f0a3ac37ca4829b1433db623ad9df6:
+    work_id: WA0167848
+    span:
+      vol: CV_Verse 851-860
+      start: 0
+      end: 1078
+  e11b0bdf738e47389126a10013dac327:
+    work_id: W417FB12B
+    span:
+      vol: CV_Verse 861-870
+      start: 0
+      end: 1154
+  f521b9b686284135a684396f116a6906:
+    work_id: W15052256
+    span:
+      vol: CV_Verse 871-880
+      start: 0
+      end: 1037
+  d7ca2bf824684aacab98dfcd130f3d06:
+    work_id: W6C485F5A
+    span:
+      vol: CV_Verse 881-890
+      start: 0
+      end: 603
+  243a61a92c5b4d8fa4018d7571712a0a:
+    work_id: W27F23F45
+    span:
+      vol: CV_Verse 91-100
+      start: 0
+      end: 1167
